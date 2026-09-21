@@ -93,9 +93,9 @@ The goal is to practise translating a client's requirements into:
 
 | Project                  | Status      |
 | ------------------------ | ----------- |
-| 01 — Corner Bakery       | In Progress |
-| 02 — FitZone Gym         | Not Started |
-| 03 — Green City High     | Not Started |
+| 01 — Corner Bakery       | Done |
+| 02 — FitZone Gym         | Done |
+| 03 — Green City High     | In Progress |
 | 04 — QuickMart Retail    | Not Started |
 | 05 — DriveEasy Rental    | Not Started |
 | 06 — GreenCity Library   | Not Started |
