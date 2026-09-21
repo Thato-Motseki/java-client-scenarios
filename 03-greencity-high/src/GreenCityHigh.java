@@ -18,7 +18,7 @@ public class GreenCityHigh {
         // class average
         double classAverage = (double) totalScore / scores.length;
 
-        System.out.println("==========================================");
+        System.out.println("\n==========================================");
         System.out.println("       GREEN CITY HIGH SCHOOL");
         System.out.println("             GRADE REPORT");
         System.out.println("==========================================");
@@ -54,7 +54,7 @@ public class GreenCityHigh {
         System.out.println("------------------------------------------");
         System.out.printf("Class Average: %.2f%n", classAverage);
 
-        // Display students below class average
+        // students below class average
         System.out.println("\nStudents Below Class Average:");
         System.out.println("------------------------------------------");
 

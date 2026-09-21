@@ -15,7 +15,7 @@ public class FitZoneGym {
             System.out.println("==============================");
 
             System.out.println("1. Standard - M450/month");
-            System.out.println("2. Premium  - M700/month");
+            System.out.println("\n2. Premium  - M700/month");
 
             System.out.print("Select membership type: ");
             int membershipType = scanner.nextInt();
