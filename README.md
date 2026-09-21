@@ -95,12 +95,12 @@ The goal is to practise translating a client's requirements into:
 | ------------------------ | ----------- |
 | 01 — Corner Bakery       | Done |
 | 02 — FitZone Gym         | Done |
-| 03 — Green City High     | In Progress |
-| 04 — QuickMart Retail    | Not Started |
-| 05 — DriveEasy Rental    | Not Started |
-| 06 — GreenCity Library   | Not Started |
-| 07 — Meridian Bank ATM   | Not Started |
-| 08 — StarNight Events    | Not Started |
+| 03 — Green City High     | Done |
+| 04 — QuickMart Retail    | Done |
+| 05 — DriveEasy Rental    | Done |
+| 06 — GreenCity Library   | Done|
+| 07 — Meridian Bank ATM   | Done |
+| 08 — StarNight Events    | In Progress |
 | 09 — SwiftShip Logistics | Not Started |
 | 10 — Bramble POS         | Not Started |
 
